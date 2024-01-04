@@ -1,0 +1,9 @@
+pojoclass\LoginPojo.class
+stepdefinition\Logostepdefinition.class
+runner\JvmReport.class
+runner\RunnerClass.class
+baseclass\BaseClass.class
+pageobject\PageObject.class
+pojoclass\JewelPojo.class
+stepdefinition\Jewelstepdefinition.class
+hooks\Hooks.class
